@@ -5,3 +5,4 @@
 3. API Exercise - March 2020 
 4. Inferential Statistics (1a) Mini Exercise - April 2020
 5. Inferential Statistics (1b) Mini Exercise - April 2020
+6. Bootstrap Inference Mini Exercise - April 2020
